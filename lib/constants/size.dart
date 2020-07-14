@@ -1,0 +1,1 @@
+const double commond_s_size = 8.0;
