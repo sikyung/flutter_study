@@ -28,7 +28,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          color: Colors.red,
+          color: Colors.orange,
           width: 100,
           height: 100,
         ),
